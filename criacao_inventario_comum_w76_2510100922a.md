@@ -13,7 +13,9 @@ git lfs install
 git add .
 git commit -m "first commit"
 git branch -M master
-git remote add origin https://github.com/schlinux/gc_tyb.git
+git remote add origin https://github.com/schlinux/inventario_comum_w76.git
+git remote -v
+git remote set-url origin git@github.com:schlinux/inventario_comum_w76.git
 git push -u origin master
 
 # Setar branch develop
