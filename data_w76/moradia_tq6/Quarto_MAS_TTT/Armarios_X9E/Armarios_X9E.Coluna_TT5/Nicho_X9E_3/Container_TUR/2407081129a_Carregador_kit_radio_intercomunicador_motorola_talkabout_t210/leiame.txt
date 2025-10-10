@@ -1,0 +1,4 @@
+-Dt: 08-07-24
+- Ref: 2407081129a_Carregador_kit_radio_intercomunicador_motorola_talkabout_t210.pdf
+- S/N: 200273-11
+

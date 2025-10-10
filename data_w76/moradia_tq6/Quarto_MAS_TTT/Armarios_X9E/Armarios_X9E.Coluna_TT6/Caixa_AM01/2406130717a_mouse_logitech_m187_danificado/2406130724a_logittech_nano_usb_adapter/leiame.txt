@@ -1,0 +1,5 @@
+-Dt: 13-06-24
+- Ref: 2406130724a_logittech_nano_usb_adapter.pdf
+- Modelo C-U0010
+- S/N: LZ923z3A-DJR
+- Obs: originalmente acessorio de 2406130717a_mouse_logitech_m187_danificado.pdf

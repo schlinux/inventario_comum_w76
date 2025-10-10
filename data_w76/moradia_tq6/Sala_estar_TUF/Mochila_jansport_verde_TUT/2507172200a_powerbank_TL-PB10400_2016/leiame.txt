@@ -1,0 +1,10 @@
+-Dt: 17-07-25
+- Ref: 2507172200a_powerbank_TL-PB10400_2016.pdf
+- Tag: 2507172200a
+- S/N: 4168309009177
+- Obs:---
+- Texto:
+CE
+Model: TL-PB10400 10400mAh Power Bank
+Input: 5V/2A Output: 5V/1A&5VA ROHS
+S/N: 4168309009177 5734 MADE IN SINA

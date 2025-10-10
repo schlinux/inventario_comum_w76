@@ -1,0 +1,4 @@
+-Dt: 01-04-25
+- Ref: 2504010720a_celular_samsung_j7_2018_schj7.pdf
+- Tag: 2504010720a
+- Obs: alias schj7

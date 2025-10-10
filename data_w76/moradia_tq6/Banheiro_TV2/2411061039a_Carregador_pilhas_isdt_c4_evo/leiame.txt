@@ -1,0 +1,4 @@
+-Dt: 24-11-24
+- Ref: 2411061039a_Carregador_pilhas_isdt_c4_evo.pdf
+- Anexo: cabo curto USB_C
+- Tag:2411061039a

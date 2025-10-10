@@ -1,0 +1,6 @@
+-Dt: 21-09-24
+- Ref: 2409211133a_Carregador_baseus_fast_65w_preto.pdf
+- Modelo: CCGAN65E5
+- S/N: XW240107
+- Anexo: Cb_usbc_usbc_fast_baseus_liso_preto_1m_TVH.pdf
+

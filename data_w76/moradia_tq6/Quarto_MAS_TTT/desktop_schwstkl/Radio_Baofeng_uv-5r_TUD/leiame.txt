@@ -1,0 +1,3 @@
+- Dt: 18-06-24
+- Ref: Radio_Baofeng_uv-5r_TUD.pdf
+- S/N: UV5R515003

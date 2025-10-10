@@ -1,0 +1,5 @@
+-Dt: 13-06-24
+- Ref: 2406130724a_logitech_usb_luminous_adapter.pdf
+- Modelo C-U008
+- S/N: LZ105Z2A-DJ
+- Obs: originalmente acessorio de 2406130714a_teclado_logitech_mx_keys_yr0073.pdf 

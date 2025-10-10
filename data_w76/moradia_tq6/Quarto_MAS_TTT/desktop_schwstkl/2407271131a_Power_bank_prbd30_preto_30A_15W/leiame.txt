@@ -1,0 +1,4 @@
+-Dt: 27-07-24
+- Ref: 2407271131a_Power_bank_prbd30_preto_30A_15W.pdf
+- MOdelo: PRBD30
+- S/N: JX230601

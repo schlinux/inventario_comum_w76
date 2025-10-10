@@ -1,0 +1,6 @@
+-Dt: 08-04-25
+- Ref: 2404170557a_drive_ssd_500gb_netac_tgi.pdf
+- Tag: 2404170557a
+- S/N: V88W008596T
+- Obs:---
+

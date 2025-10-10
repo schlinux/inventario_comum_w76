@@ -1,0 +1,6 @@
+-Dt: 29-09-24
+- Ref: 2409291903a_ssd_sandisk_extreme_san-tvm_1tb_TVM.pdf
+- Modelo: SDSSDE61-1T00
+- S/N: 23102N400089
+
+

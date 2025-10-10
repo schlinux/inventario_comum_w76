@@ -1,0 +1,5 @@
+-Dt: 01-04-25
+- Ref: kit_extensao_viagem_TTL.pdf
+- Modelo: ---
+- S/N: ----
+- Obs: extraviado um pino 3 saidas mais fino, a repor.

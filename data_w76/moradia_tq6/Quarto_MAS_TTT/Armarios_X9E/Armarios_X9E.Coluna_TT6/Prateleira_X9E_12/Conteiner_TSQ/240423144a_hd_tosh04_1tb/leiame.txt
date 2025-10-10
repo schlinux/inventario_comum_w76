@@ -1,0 +1,4 @@
+-Dt: 23-04-24
+- Ref: 240423144a_hd_tosh04_1tb.pdf
+- Objetivo: HD de arquivo morto. Espelha  em carater precario SEAG02 (2tb).
+

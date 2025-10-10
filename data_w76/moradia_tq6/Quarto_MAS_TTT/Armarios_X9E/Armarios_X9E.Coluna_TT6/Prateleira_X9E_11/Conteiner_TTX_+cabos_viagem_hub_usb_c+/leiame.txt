@@ -1,0 +1,6 @@
+-Dt: 02-06-24
+- Ref: Conteiner_TTX.pdf
+- Obs: contem kits viagem a serem embarcados.
+- Vide: https://keep.google.com/#label/ETC
+ 
+

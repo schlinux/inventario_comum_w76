@@ -1,0 +1,6 @@
+-Dt: 30-09-24
+- Ref: 2404151806a_tplink_ac1300_archer_t4u_plus_v3.pdf
+- Modelo: Archer T4U Plus
+- S/N: 2239677003706 US1.0
+
+

@@ -1,0 +1,5 @@
+- Dt: 16-03-25
+- Ref: lanterna_bateria_18650_twn.pdf
+- S/N: ---
+- Tag: TWN
+

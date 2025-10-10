@@ -1,0 +1,6 @@
+-Dt: 02-06-24
+- Ref: Kit_usb_c_hub_TTV.pdf
+- Obs: kit viagem a ser embarcado.
+- Vide: https://keep.google.com/#label/ETC
+ 
+

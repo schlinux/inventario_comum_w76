@@ -1,0 +1,5 @@
+-Dt: 26-07-24
+- Ref: 2407261040a_power_bank_tplink_bypass_preto_10A_h.pdf
+- Modelo: TL-PB10000
+- S/N: 2198308002119
+

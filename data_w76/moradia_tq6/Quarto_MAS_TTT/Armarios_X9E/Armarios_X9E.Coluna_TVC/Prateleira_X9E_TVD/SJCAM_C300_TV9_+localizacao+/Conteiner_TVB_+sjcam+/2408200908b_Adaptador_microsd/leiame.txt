@@ -1,0 +1,4 @@
+-Dt: 25-08-24
+- Ref: 2408200908b_Adaptador_microsd.pdf
+- Obs: eh acessorio de 2408200908a_Sdcard_sandisk_128gb.pdf.
+

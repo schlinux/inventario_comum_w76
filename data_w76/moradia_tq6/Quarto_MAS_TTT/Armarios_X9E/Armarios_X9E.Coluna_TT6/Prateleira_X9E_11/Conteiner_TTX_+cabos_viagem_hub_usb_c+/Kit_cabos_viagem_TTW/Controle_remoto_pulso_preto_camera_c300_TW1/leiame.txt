@@ -1,0 +1,3 @@
+- Dt: 20-11-24
+- Ref: Controle_remoto_pulso_preto_camera_c300_TW1.pdf
+- Tag: 241120-TW1

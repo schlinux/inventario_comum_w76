@@ -1,0 +1,5 @@
+-Dt: 08-06-24
+- Ref: Prados_KT07.pdf
+- Localizacao: por padrao, KT10
+- Composicao: vide BD edc.tc.
+

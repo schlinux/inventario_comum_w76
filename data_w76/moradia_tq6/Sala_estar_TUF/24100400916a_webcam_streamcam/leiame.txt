@@ -1,0 +1,13 @@
+-Dt: 04-10-24
+- Ref: 24100400916a_webcam_streamcam.pdf
+- Marca: Logitech 
+- Modelo: Webcam Streamcam
+- Acessorios: 
+    - 2410040846a_tripe_metalico_webcam 
+    - 24100400904a_suporte_articulado_webcam_streamcam
+    - 2410040854a_suporte_tripe_webcam_streamcam
+    - 2410040834a_conteiner_TVN (guarda)
+    - 2410041117a_adaptador_usb_c_femea_usb_3_0_macho
+
+
+

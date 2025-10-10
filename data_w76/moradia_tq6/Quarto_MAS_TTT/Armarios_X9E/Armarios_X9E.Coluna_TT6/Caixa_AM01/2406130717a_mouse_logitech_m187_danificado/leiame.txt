@@ -1,0 +1,5 @@
+-Dt: 13-06-24
+- Ref: 2406130717a_mouse_logitech_m187_danificado.pdf
+- Modelo M187
+- S/N: 1924LZ06H9S8
+- Obs: roda do mouse nao funciona. Nano adapter operacional.

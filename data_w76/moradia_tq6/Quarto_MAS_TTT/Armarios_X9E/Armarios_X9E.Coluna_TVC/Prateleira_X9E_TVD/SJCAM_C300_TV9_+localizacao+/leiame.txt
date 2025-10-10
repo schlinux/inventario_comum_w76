@@ -1,0 +1,7 @@
+-Dt: 25-08-24
+- Ref: SJCAM_C300_TV9_#localizacao#
+- Composicao: 
+    - 2409220737a_Case_rigido_preto
+    - 2409220735a_Case_SJCAM
+    - Conteiner_TVB_+sjcam+
+

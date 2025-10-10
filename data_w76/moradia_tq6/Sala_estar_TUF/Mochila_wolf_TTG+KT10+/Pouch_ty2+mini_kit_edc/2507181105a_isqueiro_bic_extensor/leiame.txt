@@ -1,0 +1,5 @@
+-Dt: 18-07-25
+- Ref: 2507181105a_isqueiro_bic_extensor.pdf
+- Tag: 2507181105a
+- Obs: +mini_kit_edc
+

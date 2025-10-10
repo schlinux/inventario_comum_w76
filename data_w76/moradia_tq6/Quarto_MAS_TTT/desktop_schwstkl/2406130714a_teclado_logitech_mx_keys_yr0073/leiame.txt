@@ -1,0 +1,4 @@
+-Dt: 13-06-24
+- Ref: 2406130714a_teclado_logitech_mx_keys_yr0073.pdf
+- Modelo YR0073
+- S/N: 2112CE335CB8

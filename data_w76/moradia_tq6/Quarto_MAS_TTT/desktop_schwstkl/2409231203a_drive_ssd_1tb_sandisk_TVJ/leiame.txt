@@ -1,0 +1,5 @@
+-Dt: 23-09-24
+- Ref: 2409231203a_drive_ssd_1tb_sandisk_TVJ.pdf
+- Modelo: SDSSDE30-1T00 
+- S/N: 2416CK401406
+

@@ -1,0 +1,4 @@
+-Dt: 18-05-24
+- Ref: 2405180745a_kit_cadeado_937_tsa.pdf
+- Localizacao do encarte: diariop mai/24
+- Segredo: 937

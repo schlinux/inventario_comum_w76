@@ -1,0 +1,6 @@
+-Dt: 18-07-25
+- Ref: mini_lanterna_armytek_zippy_ty1.pdf
+- Tag: 250718-TY1
+- S/N: 1235110005
+- Obs:---
+

@@ -1,0 +1,4 @@
+-Dt: 08-07-24
+- Ref: 2407081128a_Kit_radio_intercomunicador_motorola_talkabout_t210.pdf
+- Manuais: 2407081128b_Kit_radio_intercomunicador_motorola_talkabout_t210
+

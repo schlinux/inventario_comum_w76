@@ -1,0 +1,4 @@
+-Dt: 06-05-24
+- Ref: etc_ttd
+- Descricao: every_travel carry
+- Localizacao diversa.

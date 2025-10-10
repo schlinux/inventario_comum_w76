@@ -1,0 +1,4 @@
+-Dt: 21-10-24
+- Ref: Kit_opal_router_branco_ac1200_TVR.pdf
+- Tag: TVR 
+- Obs: TAG EM POST-IT AVULSO

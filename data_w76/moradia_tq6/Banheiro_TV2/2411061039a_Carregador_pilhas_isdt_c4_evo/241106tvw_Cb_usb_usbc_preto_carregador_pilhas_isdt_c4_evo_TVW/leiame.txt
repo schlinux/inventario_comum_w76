@@ -1,0 +1,3 @@
+-Dt: 24-11-24
+- Ref: 241106tvw_Cb_usb_usbc_preto_carregador_pilhas_isdt_c4_evo_TVW.pdf
+- Tag: 241106TVW

@@ -1,0 +1,4 @@
+-Dt: 11-07-24
+- Ref: 1802061754c_cartao_fusex_mauro_dap.pdf
+- Original:/mnt/truecrypt1/gotacaja_server/gotacaja_git/gotacaja/documentos/1802061754b_cartao_fusex_mauro_dap
+
