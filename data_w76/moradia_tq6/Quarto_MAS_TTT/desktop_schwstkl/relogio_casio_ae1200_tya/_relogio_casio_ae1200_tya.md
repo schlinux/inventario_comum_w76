@@ -4,7 +4,7 @@ ref: tya
 ---
 -  Ref:  [[relogio_casio_ae1200_tya.pdf]]
 - Tag:  ---
-- Obs: VIDE [[_pulseira_original_casio_ae-1200_ty7]]
+- Obs: VIDE [[0_pulseira_original_casio_ae-1200_ty7]]
 
 ---
 
