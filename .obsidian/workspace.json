@@ -32,6 +32,32 @@
             }
           },
           {
+            "id": "2694cc6a27b4b034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_sestini_TTI/guia_estradas_brasil_mapograf_2407221959a/0_guia_estradas_brasil_mapograf_2407221959a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0_guia_estradas_brasil_mapograf_2407221959a"
+            }
+          },
+          {
+            "id": "0f07b8f86cffa17b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a/kit_lupa_2405201028a.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "kit_lupa_2405201028a"
+            }
+          },
+          {
             "id": "3827b891160d99d5",
             "type": "leaf",
             "state": {
@@ -46,31 +72,17 @@
             }
           },
           {
-            "id": "84bf914f1d593cec",
+            "id": "37a22305ef57ab11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_w76/0_data_w76.md",
+                "file": "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a/0_kit_lupa_2405201028a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_data_w76"
-            }
-          },
-          {
-            "id": "5834b439c425c780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_inventario_comum_w76.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0_inventario_comum_w76"
+              "title": "0_kit_lupa_2405201028a"
             }
           }
         ]
@@ -105,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ty5",
+                "query": "kit_lupa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,14 +235,20 @@
   },
   "active": "e393c4f7182551d8",
   "lastOpenFiles": [
+    "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a/0_kit_lupa_2405201028a.md",
+    "data_w76/0_data_w76.md",
     "0_inventario_comum_w76.md",
+    "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a/kit_lupa_2405201028a.pdf",
+    "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_sestini_TTI/guia_estradas_brasil_mapograf_2407221959a/0_guia_estradas_brasil_mapograf_2407221959a.md",
+    "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_case_patola_TTJ/kit_lupa_2405201028a/0_kit_lupa_2405201028a.md",
+    "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a",
     "data_w76/moradia_tq6/conteudo_assungui575_2508011847a.md",
+    "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_case_patola_TTJ/kit_lupa_2405201028a/kit_lupa_2405201028a.pdf",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TY5/0_Conteiner_TY5.md",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TYG/kit_pinos_pulseira_relogio_gshock_2404170524a/0_kit_pinos_pulseira_relogio_gshock_2404170524a.md",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E._Coluna_TT7/lata_casio_wrist_lf_20w_2508070819a/pulseira_original_casio_ae-1200_ty7/pulseira_original_casio_ae-1200_ty7.pdf",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TY5/passador_slide_exbom_2509041141b/passador_slide_exbom_2509041141b.pdf",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TY5/passador_slide_exbom_2509041141b/0_passador_slide_exbom_2509041141b.md",
-    "data_w76/0_data_w76.md",
     "data_w76/moradia_tq6/0_moradia_tq6.md",
     "criacao_inventario_comum_w76_2510100922a.md",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TY5/passador_slide_exbom_2509041141b/0_Conteiner_TY5 1.md",
@@ -242,7 +260,6 @@
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TYG",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TY5/Conteiner_TY5.pdf",
     "0_README.md",
-    "data_w76/moradia_tq6/Quarto_MAS_TTT/desktop_schwstkl/Nobreak_SMS_Lite_1200VA_2508060524b/0_Nobreak_SMS_Lite_1200VA_2508060524b.md",
-    "data_w76/moradia_tq6/Quarto_MAS_TTT/desktop_schwstkl/Nobreak_SMS_Lite_1200VA_2508060524b/Nobreak_SMS_Lite_1200VA_2508060524b.pdf"
+    "data_w76/moradia_tq6/Quarto_MAS_TTT/desktop_schwstkl/Nobreak_SMS_Lite_1200VA_2508060524b/0_Nobreak_SMS_Lite_1200VA_2508060524b.md"
   ]
 }

@@ -26,6 +26,8 @@ ref: 2508011847a
 
 [[0_guia_estradas_brasil_mapograf_2407221959a]]
 
+[[0_kit_lupa_2405201028a]]
+
 [[0_kit_pinos_pulseira_relogio_gshock_2404170524a]]
 
 [[0_kit_pulseiras_relogio_nylon_2404170528a]]
