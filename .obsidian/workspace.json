@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "dcb9912b0e34116f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_w76/moradia_tq6/Sala_estar_TUF/mikrotik_2601010931b/0_mikrotik_2601010931b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0_mikrotik_2601010931b"
+            }
+          },
+          {
             "id": "b8973030d927aa97",
             "type": "leaf",
             "state": {
@@ -43,6 +57,20 @@
               },
               "icon": "lucide-file",
               "title": "0_guia_estradas_brasil_mapograf_2407221959a"
+            }
+          },
+          {
+            "id": "ab6fa18d0fc641c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_w76/moradia_tq6/conteudo_assungui575_2508011847a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conteudo_assungui575_2508011847a"
             }
           },
           {
@@ -235,14 +263,18 @@
   },
   "active": "e393c4f7182551d8",
   "lastOpenFiles": [
+    "data_w76/moradia_tq6/conteudo_assungui575_2508011847a.md",
+    "data_w76/moradia_tq6/Sala_estar_TUF/mikrotik_2601010931b/0_mikrotik_2601010931b.md",
+    "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_sestini_TTI/guia_estradas_brasil_mapograf_2407221959a/0_guia_estradas_brasil_mapograf_2407221959a.md",
+    "data_w76/moradia_tq6/Sala_estar_TUF/mikrotik_2601010931b/mikrotik_2601010931b.pdf",
+    "data_w76/moradia_tq6/Sala_estar_TUF/wristwatch_winder_2508060615a/0_wristwatch_winder_2508060615a.md",
+    "data_w76/moradia_tq6/Sala_estar_TUF/mikrotik_2601010931b",
     "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a/0_kit_lupa_2405201028a.md",
     "data_w76/0_data_w76.md",
     "0_inventario_comum_w76.md",
     "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a/kit_lupa_2405201028a.pdf",
-    "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_sestini_TTI/guia_estradas_brasil_mapograf_2407221959a/0_guia_estradas_brasil_mapograf_2407221959a.md",
     "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_case_patola_TTJ/kit_lupa_2405201028a/0_kit_lupa_2405201028a.md",
     "data_w76/moradia_tq6/Sala_estar_TUF/Mochila_jansport_verde_TUT/kit_lupa_2405201028a",
-    "data_w76/moradia_tq6/conteudo_assungui575_2508011847a.md",
     "data_w76/moradia_tq6/Quarto_Visita_TTU/Armario_TTF/etc_ttd/Mala_bordo_case_patola_TTJ/kit_lupa_2405201028a/kit_lupa_2405201028a.pdf",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TY5/0_Conteiner_TY5.md",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TYG/kit_pinos_pulseira_relogio_gshock_2404170524a/0_kit_pinos_pulseira_relogio_gshock_2404170524a.md",
@@ -257,8 +289,6 @@
     "README.md",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TYG/kit_pinos_pulseira_relogio_gshock_2404170524a/kit_pinos_pulseira_relogio_gshock_2404170524a.pdf",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TYG/Conteiner_TYG.pdf",
-    "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TYG",
-    "data_w76/moradia_tq6/Quarto_MAS_TTT/Armarios_X9E/Armarios_X9E.Coluna_TT5/Nicho_X9E_3/Conteiner_TY5/Conteiner_TY5.pdf",
     "0_README.md",
     "data_w76/moradia_tq6/Quarto_MAS_TTT/desktop_schwstkl/Nobreak_SMS_Lite_1200VA_2508060524b/0_Nobreak_SMS_Lite_1200VA_2508060524b.md"
   ]

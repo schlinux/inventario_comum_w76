@@ -38,6 +38,8 @@ ref: 2508011847a
 
 [[0_LINS_TYF]]
 
+[[0_mikrotik_2601010931b]]
+
 [[0_Nobreak_SMS_Lite_1200VA_2508060524b]]
 
 [[_passaporte_mauro_2023_2303011023d]]
